@@ -1,6 +1,7 @@
 package org.example.lab3;
 
 /*
+//Кузнецова София 2 курс лр3 java #1
 (использовать  String, ,  StringBuilder и  StringBuffer и StringTokenizer)
 
 7.	Словом в строке считается последовательность букв латинского алфавита, остальные символы

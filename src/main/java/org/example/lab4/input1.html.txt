@@ -1,0 +1,11 @@
+<html>
+<head>
+    <title>Test Page</title>
+</head>
+<body>
+<h1>Welcome to the <b>Amazing</b> World of <i>Programming</i></h1>
+<p>This is a <b>simple</b> example of <i>HTML</i> content.</p>
+<p>You can find useful resources <a href="https://example.com">here</a>.</p>
+<p>Hello <b><i>world</i></b>!</p>
+</body>
+</html>

@@ -1,0 +1,4 @@
+name;shortTitle;dateUpdate;address;dateFoundation;countEmployees;auditor;phone;email;branch;activity;internetAddress
+CompanyA;ComA;;г. Минск;;100;;;email@companyA.com;IT;;www.companya.com
+CompanyB;ComB;;;;20;;37529345;;Finance;Косталингwww.companyb.com;
+CompanyC;ComC;;г. Гомель ;;90;;37544271;email@companyС.com;IT;;www.companyc.com

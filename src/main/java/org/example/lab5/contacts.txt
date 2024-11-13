@@ -1,0 +1,5 @@
+Alice|1234567890|1112223333||alice@example.com|www.alice.com|123 Wonderland Ave
+Bob|9876543210||4445556666|bob@example.com|www.bob.com|456 Ocean Blvd
+Charlie|5555555555|||charlie@example.com||789 Hill St
+Diana|3334445555|2223334444|7778889999|diana@example.com|www.diana.com|101 Maple Dr
+Eve|6667778888|||eve@example.com||456 Elm St

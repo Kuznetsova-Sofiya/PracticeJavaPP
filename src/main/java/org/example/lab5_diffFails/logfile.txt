@@ -1,0 +1,8 @@
+нояб. 12, 2024 10:34:16 PM org.example.lab5_diffFails.Solver logApplicationUsage
+INFO: Выбрать компании по дате основания с 13 по 17
+нояб. 12, 2024 10:38:16 PM org.example.lab5_diffFails.Solver logApplicationUsage
+INFO: Выбрать компании по виду деятельности: IT
+нояб. 12, 2024 10:38:32 PM org.example.lab5_diffFails.Solver logApplicationUsage
+INFO: Найти компанию по краткому наименованию: Com
+нояб. 12, 2024 10:39:24 PM org.example.lab5_diffFails.Solver logApplicationUsage
+INFO: Выбрать компании по численности сотрудников с 20 по 100

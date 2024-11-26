@@ -1,0 +1,17 @@
+<companies>
+  <company>
+    <name>CompanyA</name>
+    <shortTitle>ComA</shortTitle>
+    <address>�. �����</address>
+  </company>
+  <company>
+    <name>CompanyB</name>
+    <shortTitle>ComB</shortTitle>
+    <address></address>
+  </company>
+  <company>
+    <name>CompanyC</name>
+    <shortTitle>ComC</shortTitle>
+    <address>�. ������ </address>
+  </company>
+</companies>
